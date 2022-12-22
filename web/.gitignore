@@ -1,0 +1,5 @@
+*.txt
+*.pdf
+*.xlsx
+/logs
+*png

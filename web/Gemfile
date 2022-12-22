@@ -1,0 +1,11 @@
+#arquivos das gems [dependencias] do projeto
+# esse arquivo é comparado com pom do maven
+source "https://rubygems.org"
+
+gem 'cucumber', '5.2'
+gem 'capybara', '3.33'
+gem 'selenium-webdriver', '4.7.1'
+gem 'rspec', '3.10'
+gem 'allure-cucumber', '2.13.6.4'
+gem 'prawn', ' 2.4'
+gem 'faker', ' 2.21'
